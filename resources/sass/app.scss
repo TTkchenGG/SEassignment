@@ -1,0 +1,70 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.appointment{
+    border: 3px solid darkblue;
+    font-size: 20px;
+}
+
+.vaccination{
+    border: 3px solid darkblue;
+    font-size: 20px;
+}
+
+.clinic{
+    border: 3px solid darkblue;
+    font-size: 20px;
+}
+
+.profile{
+    width: 350px;
+    height: 250px;
+
+    border: 1px solid darkblue;
+}
+
+.schedule{
+    width: 370px;
+    height: 250px;
+
+    border: 1px solid darkblue;
+}
+
+.information{
+    width: 370px;
+    height: 250px;
+
+    border: 1px solid darkblue;
+}
+
+.view{
+    margin:auto;
+}
+
+
+.post{
+
+    margin: 1px;
+    word-break: break-word;
+    border: 2px solid darkblue;
+    width: 1120px;
+    font-size: 20px;
+}
+
+.profile1{
+    border: 2px solid darkblue;
+    width: 350px;
+    height: 240px;
+
+}
+
+.btn1{
+    float:right;
+    right: 0;
+}
