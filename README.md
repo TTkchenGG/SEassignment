@@ -1,11 +1,9 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# Pre and Post Natal Care App
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+In this era globalisation, we do not see plenty of applications that are related to pre and post natal personal care. Hence, we decided to develop an application which could help the users such as pre and post natal ladies to gain more knowledge and confidence on taking care of their children and themself. We believe that this application can be improved and contribute towards the community and could guide more ladies on the pre and post natal personal care.
+
+
+## Laravel framework basic web app
 
 ## About Laravel
 
